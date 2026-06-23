@@ -20,3 +20,8 @@ header {
     margin: 0 auto;
     padding: 1rem 2rem;
 }
+.logo {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
